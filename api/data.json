@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Stanley Park",
+        "address": "Vancouver, BC",
+        "lat": 49.302438,
+        "lng": -123.148515,
+        "review": 5
+    },
+    {
+        "id": 2,
+        "name": "Vanier Park",
+        "address": "Vancouver, BC",
+        "lat": 49.27668185,
+        "lng": -123.14253849,
+        "review": 1
+    },
+    {
+        "id": 3,
+        "name": "Capilano Suspension Bridge",
+        "address": "West Vancouver, BC",
+        "lat": 49.34462102,
+        "lng": -123.1149463,
+        "review": 2
+    },
+    {
+        "id": 4,
+        "name": "Lighthouse Park",
+        "address": "West Vancouver, BC",
+        "lat": 49.3345545,
+        "lng": -123.26257508,
+        "review": 5
+    },
+    {
+        "id": 5,
+        "name": "Queen Elizabeth Park",
+        "address": "Vancouver, BC",
+        "lat": 49.24104777,
+        "lng": -123.10969785,
+        "review": 5
+    },
+    {
+        "id": 6,
+        "name": "Harbour Green Park",
+        "address": "Vancouver, BC",
+        "lat": 49.29039168,
+        "lng": -123.12201455,
+        "review": 3
+    },
+    {
+        "id": 7,
+        "name": "Burnaby Lake Regional Park",
+        "address": "Burnaby, BC",
+        "lat": 49.24244868,
+        "lng": -122.94245675,
+        "review": 3
+    },
+    {
+        "id": 8,
+        "name": "Deer Lake Park",
+        "address": "Burnaby, BC",
+        "lat": 49.2354998,
+        "lng": -122.98005059,
+        "review": 4
+    },
+    {
+        "id": 9,
+        "name": "Panorama Park",
+        "address": "North Vancouver, BC",
+        "lat": 49.32796794,
+        "lng": -122.94953978,
+        "review": 4
+    },
+    {
+        "id": 10,
+        "name": "Lynn Canyon Park",
+        "address": "North Vancouver, BC",
+        "lat": 49.34422517,
+        "lng": -123.01893188,
+        "review": 1
+    },
+    {
+        "id": 11,
+        "name": "Jericho Beach Parl",
+        "address": "North Vancouver, BC",
+        "lat": 49.27213876,
+        "lng": -123.19858826,
+        "review": 1
+    }
+]
