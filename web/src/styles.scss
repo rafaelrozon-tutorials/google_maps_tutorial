@@ -1,5 +1,8 @@
-$secondary:  lightgrey;
-
 body {
-    background: $secondary;
+    margin: 1em;
+}
+
+#map {
+    width: 80%;
+    height: 600px;
 }
